@@ -1,0 +1,22 @@
+{
+  "name": "l33t-substitution",
+  "version": "0.1.0",
+  "description": "Function for substituting numbers and symbols for letters",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidminor/l33t-substitution.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "David Minor <daveminor@gmail.com> (http://davidminor.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidminor/l33t-substitution/issues"
+  },
+  "homepage": "https://github.com/davidminor/l33t-substitution"
+}
